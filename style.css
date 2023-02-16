@@ -79,6 +79,7 @@ p {
 	top: 0;
 	width: 100vw;
 	height: auto;
+	background: #006dad;
 }
 #header .header {
 	min-height: 8vh;
